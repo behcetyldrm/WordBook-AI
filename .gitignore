@@ -1,0 +1,28 @@
+# Gradle / Kotlin
+.gradle
+.kotlin/
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Android Studio
+*.iml
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Yerel ayarlar ve gizli anahtarlar (API key'ler buraya)
+local.properties
+*.keystore
+*.jks
+
+# Release çıktıları
+*.apk
+*.aab
+
+# macOS
+.DS_Store

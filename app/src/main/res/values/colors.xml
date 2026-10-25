@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose çizilmeden önceki pencere arka planı (Figma: background) -->
+    <color name="window_background">#FFF4FAF5</color>
+</resources>
