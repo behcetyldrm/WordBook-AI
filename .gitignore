@@ -14,6 +14,7 @@
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+/.idea/deviceManager.xml
 
 # Yerel ayarlar ve gizli anahtarlar (API key'ler buraya)
 local.properties
